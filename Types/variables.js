@@ -1,0 +1,10 @@
+var movieTitle = "Amadeus";
+movieTitle = "The Matrix";
+movieTitle = 6;
+movieTitle.toUpperCase();
+var numCatLives = 9;
+numCatLives++;
+numCatLives = "zero";
+var gameOver = true;
+gameOver = false;
+gameOver = "true";
