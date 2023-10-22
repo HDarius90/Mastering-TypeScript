@@ -37,7 +37,7 @@ printName(singer);
 // }
 
 type MyNum = number;
-let age: MyNum = 32;
+// let age: MyNum = 32;
 
 // Nested Objects
 
@@ -75,11 +75,11 @@ printSong(mySong);
 
 // Optional Properties
 
-type Point = {
-  x: number;
-  y: number;
-  z?: number;
-};
+// type Point = {
+//   x: number;
+//   y: number;
+//   z?: number;
+// };
 
 let myPoint: Point = {
   x: 35,
@@ -98,7 +98,7 @@ const user: User = {
   username: "Zenda",
 };
 
-user.id = 246;
+// user.id = 246;
 
 // Intersection Types
 

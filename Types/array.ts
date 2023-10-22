@@ -15,7 +15,7 @@ type Pointer = {
   y: number;
 };
 
-const coords: Pointer[] = [];
+// const coords: Pointer[] = [];
 coords.push({ x: 12, y: 13 });
 // coords.push({ x: 12, y: "13" });
 
